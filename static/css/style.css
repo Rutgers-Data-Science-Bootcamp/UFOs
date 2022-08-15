@@ -1,0 +1,10 @@
+body {
+
+    color: #f7f7f7;
+  }
+.jumbotron {
+  background-image: url("/Users/dilhumarablat/Desktop/Classwork_Bootcamp/Module11_0808_0814_2022/UFOs/images/nasa.jpg");
+  background-size: 100% 100%;
+  text-align: center;
+}
+    
