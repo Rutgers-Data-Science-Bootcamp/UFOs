@@ -3,7 +3,7 @@
 The main goal of this project is to create an interactive webpage that allows readers to parse the data around UFO sightings. UFO sighting data is stored as a JavaScript array and by using JavaScript as the primary coding language, while HTML/CSS and Bootstrap are used to modify the aesthetics of the website that contains a table which allows to filter data based on multiple criteria. 
 
 ## Results
-#### Link to UFO Sightings webpage: https://shiraliobul.github.io/UFOs/ (I am working on it to display as github pages, but could not link with css and js)
+#### Link to UFO Sightings webpage: https://shiraliobul.github.io/ShiraliObul.githubio.UFO/
     1. We have a webpage contains an interactive table with mutiple elements for (5 elements) filters 
     by using JavaScript and HTML as you see the screenshot: Welcome to UFOs sightings to see the facts.
 ![Screen Shot 2022-08-16 at 10 26 02 PM](https://user-images.githubusercontent.com/65901034/185020990-1fb73133-73c7-49f8-94ea-e8e545313442.png)
