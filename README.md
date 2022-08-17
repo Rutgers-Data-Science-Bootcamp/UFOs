@@ -26,7 +26,7 @@ The main goal of this project is to create an interactive webpage that allows re
      
 ## Resources:
 Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
-Data Source:
+Data Source:https://github.com/ShiraliObul/UFOs/blob/main/static/JS/data.js
 
    
 
