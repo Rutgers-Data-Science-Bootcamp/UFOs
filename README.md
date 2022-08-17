@@ -25,8 +25,8 @@ The main goal of this project is to create an interactive webpage that allows re
      4. Including a button to clear the filters is also needed. The button would be located below the last filter.
      
 ## Resources:
-Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
-Data Source: https://github.com/ShiraliObul/UFOs/blob/main/static/JS/data.js
+##### Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+##### Data Source: https://github.com/ShiraliObul/UFOs/blob/main/static/JS/data.js
 
    
 
