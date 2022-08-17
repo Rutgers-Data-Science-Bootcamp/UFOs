@@ -20,10 +20,14 @@ The main goal of this project is to create an interactive webpage that allows re
     
 ## Recommendations:
      1. A filter on a date range might be preferable such as by typing 1/2010 should give all the sighting on January. Perhaps, the UFO Sightings occur more frequently in a specific month instead of a specific day within the month. It is recommended to add in a filter function to include a date range as the filter to aid in the investigation of UFO Sightings.
-     2. It would be helpful if searches can be filtered by the duration of the UFO sighting by grouping the time entries in bins; i.e. 0 – 30 seconds, 30 seconds – 1 minute, 1 minute – 2 minutes, 2 minutes – 5 minutes, 5 minutes+;
+     2. It would be helpful if searches can be filtered by the duration of the UFO sighting by grouping the time entries in bins; 
      3. There should be a click button after typing the filtering criteria.
+     4. Including a button to clear the filters is also needed. The button would be located below the last filter.
      
-## Resources and link for the webpage:
+## Resources:
+Software: HTML/CSS, JavaScript, Visual Studio Code 1.49.1, BootStrap 4.0.0
+Data Source:
+
    
 
     
